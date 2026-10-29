@@ -37,6 +37,7 @@ immer an derselben Stelle.
 - Material: **PETG** (verträgt die Wärme des Pads besser als PLA).
 - Stehend drucken, ohne Stützmaterial: unter dem Auflagering sitzt eine 45°-Fase.
 - Erst den Passtest drucken – passt das Pad, dann den ganzen Halter.
+- Getestet: komplett gedruckt und in der Schublade im Einsatz.
 
 ## Anpassen an dein Pad und deine Schublade
 
