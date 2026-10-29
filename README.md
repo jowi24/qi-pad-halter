@@ -91,7 +91,9 @@ Link auf das Blog, aber nicht für kommerzielle Zwecke (z. B. Verkauf gedruckter
 ## English
 
 A parametric 3D-printable holder (FreeCAD) that keeps a round Qi charging pad at
-a fixed height and position inside a charging drawer. Built for the project
+a fixed height and position inside a charging drawer. Designed by me for the magnetic
+**EVOline Qi charger** in the **EVOline PowerOrganiser** drawer insert
+(not an official EVOline accessory). Built for the project
 "Smart charging drawer with Home Assistant – no cloud" on the German blog
 [Smarthome? Aber sicher!](https://smarthome-aber-sicher.de).
 
