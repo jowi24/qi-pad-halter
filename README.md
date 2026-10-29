@@ -10,6 +10,13 @@ auf dem Blog [Smarthome? Aber sicher!](https://smarthome-aber-sicher.de) –
 dort steht die ganze Geschichte: Schublade, Steckdose, Shelly und die
 Automatisierung, die erkennt, wann das Handy fertig geladen ist.
 
+**Passend für:** den magnetischen **EVOline Qi-Lader** (rundes Pad, Ø 57,7 mm)
+im **EVOline PowerOrganiser** mit Schubkasteneinsatz. Die Stege schieben den
+Halter – genau wie das EVOline-Steckdosengehäuse – in die linke vordere Ecke
+der Schublade. Andere runde Qi-Pads lassen sich über die Maßtabelle anpassen.
+
+> Eigene Konstruktion von Joachim Wilke, kein offizielles EVOline-Zubehör.
+
 ![Vorschau](vorschau.png)
 
 ## Aufbau
